@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/03/62/05/31/360_F_362053188_oQ0WRHCFkIY4QlXS1S5d1i9bpYup67ll.jpg);
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+h1{
+    font-size: 500%;
+    color: goldenrod;
+}
+
+p{
+    
+    font-size: 40px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+#round-el{
+    font-style: italic;
+}
+
+button{
+    color: #016f32;
+    font-size: 40px;
+    width: 250px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
